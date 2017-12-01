@@ -15,7 +15,7 @@ public class AliveApplication {
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/sainikumara/wad-alive";
     }
 
     public static String herokuUrl() {
